@@ -1,6 +1,6 @@
 package org.example;
 
-public class Main {
+public class Example3 {
   public static void main(String[] args) {
       String[] d = new String[4];
       d[0] = "One";
